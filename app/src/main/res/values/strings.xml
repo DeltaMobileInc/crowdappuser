@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crowd Source</string>
+
+    <string name="userPrefName">userpref</string>
+    <string name="userName">Enter your name</string>
+    <string name="userPhoneNo">Enter your phone number</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
